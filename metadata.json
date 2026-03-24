@@ -1,0 +1,5 @@
+{
+  "name": "Ocean Hunter",
+  "description": "An arcade-style fishing game built with HTML5 Canvas and React.",
+  "requestFramePermissions": []
+}
