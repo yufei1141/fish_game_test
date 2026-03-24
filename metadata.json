@@ -1,5 +1,5 @@
 {
   "name": "Ocean Hunter",
-  "description": "An arcade-style fishing game built with HTML5 Canvas and React.",
+  "description": "A web-based fish catching game with optimized UI.",
   "requestFramePermissions": []
 }
